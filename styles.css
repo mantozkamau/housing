@@ -9,7 +9,11 @@ header{
     overflow: auto;
   }
   
-  
+  img{
+    height: 750px;
+    width: 100%;
+  }
+
   .navbar a {
     float: left;
     text-align: center;
